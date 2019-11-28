@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="start">Start Quiz</div>
+<div id="quiz" style="display: none;">
+    <div id="qImage"> <img src="./assets/HTMLLogo.png"></div>
+    <div id="question"> <p>Question</p></div>
+    <div id="timer">
+        <div id="counter"> 6 </div>
+        <div id="btimeGuage"></div>
+        <div id="timeGuage"></div>
+    </div>
+    <div id="choices">
+        <div class="choice" id="A" onclick="checkAnswer"(A)>A</div>
+        <div class="choice" id="B" onclick="checkAnswer"(B)>A</div>
+        <div class="choice" id="C" onclick="checkAnswer"(C)>A</div>
+    </div>
+</div>
+<div id="progress"> <div class="prog"></div>
+</div>
+<div id="scoreContainer" style="display: none;">
+    <img src="./assets/SmileyFace.png"><p>50%</p>
+</div>
+<script src="questions.js"></script>
+</body>
+</html>
