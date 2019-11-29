@@ -22,7 +22,7 @@ let questions = [
         correct : "A",
     },
     {
-        question : "What does CSS stand for?",
+        question : "What does CSS stand for?\n(A)Cascading Stylistic System\n\(B)Cascade Clear Sheets\n\(C)Cascading Style Sheet",
         imgSrc : "img/css.png",
         choiceA : "A",
         choiceB : "B",
@@ -30,7 +30,7 @@ let questions = [
         correct : "C",
     },
     {
-        question : "What does JS stand for?",
+        question : "What does JS stand for?\n(A)Java System\n\(B)JavaScript\n\(C)JQuery Style",
         imgSrc : "img/js.png",
         choiceA : "A",
         choiceB : "B",
@@ -38,7 +38,7 @@ let questions = [
         correct : "B",
     },
     {
-        question : "What JS program development considered?",
+        question : "Why use JS?\n(A)Hyper reference to pages\n\(B)Front-end web development\n\(C)Back-end data storage",
         imgSrc : "img/js.png",
         choiceA : "A",
         choiceB : "B",
@@ -46,7 +46,7 @@ let questions = [
         correct : "B",
     },
     {
-        question : "Where does JS store data?",
+        question : "Where does JS store data?\n(A)In the browser\n\(B)Off-site servers\n\(C)On your device",
         imgSrc : "img/js.png",
         choiceA : "A",
         choiceB : "B",
@@ -54,7 +54,7 @@ let questions = [
         correct : "A",
     },
     {
-        question : "What is different about JS as a coding language in comparison to the other languages you have learnt thus far?",
+        question : "JS can?\n(A)Build dynamic apps\n\(B)Not store data\n\(C)Not work with most browsers",
         imgSrc : "img/js.png",
         choiceA : "A",
         choiceB : "B",
@@ -63,7 +63,7 @@ let questions = [
     },
 
     {
-        question : "Where does JS store data?",
+        question : "JS is important for?\n(A)Layout of the web page\n\(B)Interactive web pages\n\(C)Web page decoration",
         imgSrc : "img/js.png",
         choiceA : "A",
         choiceB : "B",
